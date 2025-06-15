@@ -31,7 +31,7 @@ Regression - Random Forest achieved R² of 0.55 and Mean Absolute Error (MAE) of
 
 ![image](https://github.com/user-attachments/assets/64d969c1-e9c5-4c1e-bed4-ba7c20571772)
 
-ConvLSTM CLustering:
+KMeans CLustering:
 
 ![image](https://github.com/user-attachments/assets/64752ed9-7846-4916-bb4c-9ae249bd0d3a)
 
