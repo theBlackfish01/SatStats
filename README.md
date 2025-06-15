@@ -22,6 +22,7 @@ Clustering models - K-Means and Hierarchical Clustering
 ## Results:
 
 LSTM:
+
 ![image](data/assets/img.png)
 
 Classification - Random Forest achieved accuracy of 0.767 for data classified into low, medium, and high bins, while the other models were far less effective.
