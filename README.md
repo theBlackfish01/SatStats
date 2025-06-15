@@ -21,7 +21,7 @@ Clustering models - K-Means and Hierarchical Clustering
 
 ## Results:
 
-LSTM:
+LSTM Regressor:
 
 ![image](data/assets/img.png)
 
