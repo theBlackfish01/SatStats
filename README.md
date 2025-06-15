@@ -15,11 +15,14 @@ The main approach to the problem involved implementing a variety of machine lear
 
 Classification models - Random Forest Classifier, Support Vector Classifier (SVC), and Logistic Regression
 
-Regression models - Random Forest Regressor
+Regression models - Random Forest Regressor, LSTM
 
 Clustering models - K-Means and Hierarchical Clustering
 
 ## Results:
+
+LSTM:
+![image](data/assets/img.png)
 
 Classification - Random Forest achieved accuracy of 0.767 for data classified into low, medium, and high bins, while the other models were far less effective.
 
@@ -31,7 +34,7 @@ Regression - Random Forest achieved R² of 0.55 and Mean Absolute Error (MAE) of
 
 ![image](https://github.com/user-attachments/assets/64d969c1-e9c5-4c1e-bed4-ba7c20571772)
 
-KMeans CLustering:
+KMeans Clustering:
 
 ![image](https://github.com/user-attachments/assets/64752ed9-7846-4916-bb4c-9ae249bd0d3a)
 
